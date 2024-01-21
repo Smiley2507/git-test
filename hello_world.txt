@@ -1,0 +1,4 @@
+hello world.
+this my first git test.
+Just wanted to add some random text to test what git really is about.
+Hope you like it, cause I am enjoying every second of it.
